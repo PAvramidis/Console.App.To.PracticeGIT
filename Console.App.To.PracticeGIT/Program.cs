@@ -10,6 +10,7 @@ namespace Console.App.To.PracticeGIT
     {
         static void Main(string[] args)
         {
+            //Testing GIT
         }
     }
 }
